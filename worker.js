@@ -25,12 +25,12 @@ addEventListener('fetch', event => {
   }
   
   // 管理员账号（示例用，生产环境请加强安全措施）
-  const ADMIN_USERNAME = "admin";
-  const ADMIN_PASSWORD = "20040721xyb";
+  const ADMIN_USERNAME = "ADMIN_USERNAME";
+  const ADMIN_PASSWORD = "ADMIN_PASSWORD";
   
   // Telegram 通知（请替换为你自己的 Bot Token 和 Chat ID）
-  const TELEGRAM_BOT_TOKEN = "7778464574:AAGUzwM_EUl5sU0K6JpBYGw0cRExcgmQ-VE";
-  const TELEGRAM_CHAT_ID = "7634467469";
+  const TELEGRAM_BOT_TOKEN = "TELEGRAM_BOT_TOKEN";
+  const TELEGRAM_CHAT_ID = "TELEGRAM_CHAT_ID";
   
   // 简单的 Cookie 认证检测
   function isAuthenticated(request) {
