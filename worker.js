@@ -221,7 +221,7 @@ addEventListener('fetch', event => {
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         margin: 0;
         padding: 0;
-        background: url('https://tc.xuo.me/uploads/4b2d4414e9894066bab62c5e70a81a5b.jpg') no-repeat center center fixed;
+        background: url('https://cdn.pixabay.com/photo/2016/11/29/03/53/landscape-1867187_1280.jpg') no-repeat center center fixed;
         background-size: cover;
       }
       /* 全屏登录界面 */
